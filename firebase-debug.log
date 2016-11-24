@@ -1,0 +1,28 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] CLI Version:  3.1.0
+[debug] Platform:     linux
+[debug] Node Version: v5.10.1
+[debug] Time:         Wed Nov 23 2016 00:54:18 GMT+0530 (IST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /home/ram/firebase_projects/firebase_first_project
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] CLI Version:  3.1.0
+[debug] Platform:     linux
+[debug] Node Version: v5.10.1
+[debug] Time:         Wed Nov 23 2016 10:38:50 GMT+0530 (IST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /home/ram/firebase_projects/firebase_first_project
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
