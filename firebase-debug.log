@@ -26,3 +26,45 @@
 [info] Public Directory: public
 [info] 
 [info] Server listening at: http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] CLI Version:  3.1.0
+[debug] Platform:     linux
+[debug] Node Version: v5.10.1
+[debug] Time:         Thu Nov 24 2016 22:58:31 GMT+0530 (IST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /home/ram/firebase_projects/firebase_first_project
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] CLI Version:  3.1.0
+[debug] Platform:     linux
+[debug] Node Version: v5.10.1
+[debug] Time:         Wed Nov 30 2016 15:01:42 GMT+0530 (IST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /home/ram/firebase_projects/firebase_first_project
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] CLI Version:  3.1.0
+[debug] Platform:     linux
+[debug] Node Version: v5.10.1
+[debug] Time:         Thu Dec 01 2016 15:02:36 GMT+0530 (IST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /home/ram/firebase_projects/firebase_first_project
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
